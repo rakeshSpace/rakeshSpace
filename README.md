@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | Laravel • Node.js • React.js</h3>
+<h3 align="center">🚀 Full Stack Developer | Node.js • React.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Open+to+Opportunities+🚀&center=true&width=500&height=45">
@@ -14,7 +14,7 @@
 * 💻 Full Stack Developer with experience in **real-world industry projects**
 * 🏢 Currently working at **Sigma eSolution Pvt. Ltd.**
 * 🔧 Skilled in building **ERP systems, REST APIs, and scalable web apps**
-* 🎯 Open to **Software Developer roles / internships**
+* 🎯 Open to **Software Developer roles**
 * 📍 Ranchi, India
 
 ---
@@ -25,7 +25,7 @@
 
 **Sigma eSolution Pvt. Ltd.** *(Aug 2024 – Present)*
 
-* Built modules for **Manufacturing ERP** using Laravel
+* Built modules for **Manufacturing ERP** using React
 * Developed REST APIs using Node.js
 * Integrated React.js frontend for warehouse system
 * Optimized MySQL queries for performance
