@@ -63,7 +63,7 @@
 ### 🔹 Admire Home (Real Estate Platform)
 
 * Buy, Rent & Sell property platform
-* Built using **Node.js, Express, AngularJS**
+* Built using **Node.js, Express, ReactJS**
 * MySQL database integration
 
 ---
